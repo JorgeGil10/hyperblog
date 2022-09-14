@@ -20,12 +20,12 @@
    margin: 0;
    padding: 0,5em 0 0,5em 2em ;
    font-weight: bold;
-   box-shadow: 0px 5px 30px 0px, rgba(0, 0, 0, 0,75);
+   box-shadow: 0px 5px 30px 0px, rgba(0, 0, 0, 0.75);
    color: aqua;
  }
  #cabecera #tagline {
    font-weight: normal;
-   font-size: 0,8em;
+   font-size: 0.8em;
    padding: 0 0 0 1em;
 
  }
@@ -37,4 +37,10 @@
    padding: 1em;
    background: white;
 
+ }
+ #footer{
+  background: #777;
+  color: aquamarine;
+  text-align: center;
+  padding: 0.5em;
  }
