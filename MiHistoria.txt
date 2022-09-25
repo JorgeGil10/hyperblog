@@ -1,12 +1,10 @@
-Esta es ka historia mia
+Esta es el txt del curso de git y github
 
 
-Laboral ?
+Este curso es de Platzi
 
 
-xxxxx
+La idea es poder apropiar esto en mi carrera de java.
 
-sasasfqfgit
 
-experimento 1
-experimento 2
+
